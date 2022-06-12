@@ -1,0 +1,19 @@
+{
+  "name": "aws-cloud-development-fe",
+  "version": "0.0.1",
+  "description": "cloud-development-course-initialRS School Asignements",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/va259/aws-cloud-development-fe.git"
+  },
+  "author": "va259",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/va259/aws-cloud-development-fe/issues"
+  },
+  "homepage": "https://github.com/va259/aws-cloud-development-fe#readme"
+}
